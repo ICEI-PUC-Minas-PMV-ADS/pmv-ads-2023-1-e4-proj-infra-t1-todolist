@@ -1,4 +1,4 @@
-# ToDoLista - Lista de afazeres
+# ToDoList - Lista de afazeres
 
 `Análise e desenvolvimento de sistemas`
 
@@ -6,22 +6,27 @@
 
 `4º semestre`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto tem por objetivo o desenvolvimento de uma aplicação com acesso móvel e web, onde o usuário tem a possibilidade de gerir suas tarefas do cotidiano de forma ágil e organizada, facilitando assim sua gestão pessoal de tempo.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Bruno Carolino Lopes
+* Bruno Junqueira Benetolo
+* Daniel Begas da Silva
+* Júlia Mendes da Cunha
+* Pedro Henrique da Silva Góis
+* Robson Levi Mariano
+* Thais Rodrigues Dantas
 
 ## Orientador
 
-* Nome completo do professor 1
+* Felipe Augusto Lara Soares
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+* Faça o download do app ou acesse o link.
+
+* Crie sua conta e começe a otimizar o seu tempo.
 
 # Documentação
 
@@ -41,9 +46,6 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 <li><a href="docs/13-Referências.md"> Referências</a></li>
 </ol>
 
-# Código
-
-<li><a href="src/README.md"> Código Fonte</a></li>
 
 # Apresentação
 

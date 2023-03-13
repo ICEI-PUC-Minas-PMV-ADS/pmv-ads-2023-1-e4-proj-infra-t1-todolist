@@ -1,10 +1,10 @@
-# TÍTULO DO PROJETO
+# ToDoLista - Lista de afazeres
 
-`CURSO`
+`Análise e desenvolvimento de sistemas`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de uma Aplicação Distribuída`
 
-`SEMESTRE`
+`4º semestre`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 

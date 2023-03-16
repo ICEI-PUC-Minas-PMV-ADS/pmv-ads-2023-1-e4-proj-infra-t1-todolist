@@ -34,13 +34,20 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Qualquer pessoa que deseje organizar suas atividades diárias de maneira mais eficiente e eficaz. Desde estudantes até profissionais, todos podem se beneficiar de uma ferramenta que permita a criação de uma lista de tarefas, definir prioridades e acompanhar o progresso.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+Entre os possíveis usuários, estão estudantes que precisam gerenciar suas tarefas escolares e trabalhos acadêmicos, profissionais que precisam organizar suas atividades diárias e projetos de trabalho, mães e pais que precisam lembrar de compromissos e atividades das crianças, e pessoas que querem se manter organizadas em suas tarefas domésticas.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Além disso, a aplicação pode ser útil para equipes de trabalho, permitindo que os membros de um grupo definam suas tarefas individuais e compartilhem informações sobre o progresso do projeto. Isso torna a aplicação distribuída "Lista de Tarefas" uma opção viável para empresas e organizações que precisam gerenciar projetos com várias pessoas trabalhando remotamente.
+
+Em resumo, o público alvo dessa aplicação distribuída é amplo e diversificado, abrangendo desde estudantes a profissionais e equipes de trabalho, todos que buscam aumentar sua produtividade e organização pessoal.
+
+Conhecendo um pouco mais sobre os perfis dos usuários:
+
+ ** Estudantes universitários: São usuários que estão cursando graduação e/ou pós-graduação em diferentes áreas do conhecimento. Possuem conhecimentos prévios sobre o uso de aplicativos e ferramentas digitais, mas podem ter dificuldades em gerenciar sua rotina acadêmica.
+ 
+ ** Profissionais autônomos: São usuários que trabalham por conta própria em diferentes áreas, como freelancers, consultores, empreendedores, entre outros. Possuem conhecimentos prévios em tecnologia, pois precisam gerenciar sua própria empresa.
+ 
+ ** Profissionais de empresas: São usuários que trabalham em empresas de diferentes portes e segmentos. Possuem conhecimentos prévios em tecnologia, pois utilizam ferramentas digitais em seu dia a dia de trabalho.
+ 
+ ** Pais e mães: São usuários que têm filhos e precisam gerenciar a rotina familiar. Possuem conhecimentos prévios em tecnologia, mas podem ter dificuldades em gerenciar suas tarefas domésticas.

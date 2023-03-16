@@ -38,7 +38,7 @@ Qualquer pessoa que deseje organizar suas atividades diárias de maneira mais ef
 
 Entre os possíveis usuários, estão estudantes que precisam gerenciar suas tarefas escolares e trabalhos acadêmicos, profissionais que precisam organizar suas atividades diárias e projetos de trabalho, mães e pais que precisam lembrar de compromissos e atividades das crianças, e pessoas que querem se manter organizadas em suas tarefas domésticas.
 
-Além disso, a aplicação pode ser útil para equipes de trabalho, permitindo que os membros de um grupo definam suas tarefas individuais e compartilhem informações sobre o progresso do projeto. Isso torna a aplicação distribuída "Lista de Tarefas" uma opção viável para empresas e organizações que precisam gerenciar projetos com várias pessoas trabalhando remotamente.
+Além disso, a aplicação pode ser útil para equipes de trabalho, permitindo que os membros de um grupo definam suas tarefas individuais e compartilhem informações sobre o progresso do projeto. Isso torna a aplicação uma opção viável para empresas e organizações que precisam gerenciar projetos com várias pessoas trabalhando remotamente.
 
 Em resumo, o público alvo dessa aplicação distribuída é amplo e diversificado, abrangendo desde estudantes a profissionais e equipes de trabalho, todos que buscam aumentar sua produtividade e organização pessoal.
 

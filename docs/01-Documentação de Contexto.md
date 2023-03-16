@@ -44,10 +44,10 @@ Em resumo, o público alvo dessa aplicação distribuída é amplo e diversifica
 
 Conhecendo um pouco mais sobre os perfis dos usuários:
 
- > Estudantes universitários: São usuários que estão cursando graduação e/ou pós-graduação em diferentes áreas do conhecimento. Possuem conhecimentos prévios sobre o uso de aplicativos e ferramentas digitais, mas podem ter dificuldades em gerenciar sua rotina acadêmica.
+ * Estudantes universitários: São usuários que estão cursando graduação e/ou pós-graduação em diferentes áreas do conhecimento. Possuem conhecimentos prévios sobre o uso de aplicativos e ferramentas digitais, mas podem ter dificuldades em gerenciar sua rotina acadêmica.
  
- > Profissionais autônomos: São usuários que trabalham por conta própria em diferentes áreas, como freelancers, consultores, empreendedores, entre outros. Possuem conhecimentos prévios em tecnologia, pois precisam gerenciar sua própria empresa.
+ * Profissionais autônomos: São usuários que trabalham por conta própria em diferentes áreas, como freelancers, consultores, empreendedores, entre outros. Possuem conhecimentos prévios em tecnologia, pois precisam gerenciar sua própria empresa.
  
- > Profissionais de empresas: São usuários que trabalham em empresas de diferentes portes e segmentos. Possuem conhecimentos prévios em tecnologia, pois utilizam ferramentas digitais em seu dia a dia de trabalho.
+ * Profissionais de empresas: São usuários que trabalham em empresas de diferentes portes e segmentos. Possuem conhecimentos prévios em tecnologia, pois utilizam ferramentas digitais em seu dia a dia de trabalho.
  
- > Pais e mães: São usuários que têm filhos e precisam gerenciar a rotina familiar. Possuem conhecimentos prévios em tecnologia, mas podem ter dificuldades em gerenciar suas tarefas domésticas.
+ * Pais e mães: São usuários que têm filhos e precisam gerenciar a rotina familiar. Possuem conhecimentos prévios em tecnologia, mas podem ter dificuldades em gerenciar suas tarefas domésticas.

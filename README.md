@@ -15,7 +15,7 @@ O projeto tem por objetivo o desenvolvimento de uma aplicação com acesso móve
 * Daniel Begas da Silva
 * Júlia Mendes da Cunha
 * Pedro Henrique da Silva Góis
-* Robson Levi Mariano
+* Robson Levi Mariano Eduardo
 * Thais Rodrigues Dantas
 
 ## Orientador

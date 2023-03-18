@@ -14,10 +14,6 @@ O objetivo deste trabalho é desenvolver um sistema web e mobile para gerenciame
 
 Planejar é crucial para o melhor desempenho na vida do ser humano, seja no ambiente profissional ou pessoal. De acordo com a BBC News, listar tarefas cotidianas ajuda a liberar espaço mental e a eliminar aquela sensação incômoda da possibilidade de estar esquecendo algo. Portanto, em busca de facilitar o dia a dia, fez-se necessário a criação do projeto ToDoList.
 
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
-
 ## Público-Alvo
 
 Qualquer pessoa que deseje organizar suas atividades diárias de maneira mais eficiente e eficaz. Desde estudantes até profissionais, todos podem se beneficiar de uma ferramenta que permita a criação de uma lista de tarefas, definir prioridades e acompanhar o progresso.

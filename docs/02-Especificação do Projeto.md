@@ -170,9 +170,9 @@ De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar 
 
 ## Gerenciamento de Tempo
 
-![Gerenciamento de tempo excel](docs/img/Gerenciamento de tempo - Planilha Excel.png)
+![Gerenciamento de tempo excel](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-infra-t1-todolist/blob/main/docs/img/Gerenciamento%20de%20tempo%20-%20Planilha%20Excel.png)
 
-![Gráfico de Gantt](docs/img/Gerenciamento de tempo - Grafico Gantt.png)
+![Gráfico de Gantt](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-infra-t1-todolist/blob/main/docs/img/Gerenciamento%20de%20tempo%20-%20Grafico%20Gantt.png)
 
 ## Gerenciamento de Equipe
 

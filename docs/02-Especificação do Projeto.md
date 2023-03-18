@@ -44,7 +44,7 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 |--------------------|------------------------------------|----------------------------------------|
 |Rafaela Miranda     | Organizar minhas tarefas por categorias e sub-categorias | Manter o controle das atividades principais e secundárias |
 |Rafaela Miranda     | Poder copiar uma lista que foi elaborada anteriormente   | Reaproveitar um modelo e, assim, otimizar a criação da lista |
-|Sebastião Silva     | Controlar as metas de cada tarefa                        | Manter o controle das datas de inicio e fim da atividade |    
+|Sebastião Silva     | Controlar as metas de cada tarefa                        | Manter o controle das datas de inicio e finalização da atividade |    
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
@@ -167,19 +167,13 @@ De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar 
 
 ## Gerenciamento de Tempo
 
-Com diagramas bem organizados que permitem gerenciar o tempo nos projetos, o gerente de projetos agenda e coordena tarefas dentro de um projeto para estimar o tempo necessário de conclusão.
+![Gerenciamento de tempo)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-infra-t1-todolist/blob/main/docs/img/Gerenciamento%20de%20tempo%20-%20Planilha%20Excel.png)
 
-![Diagrama de rede simplificado notação francesa (método francês)](img/02-diagrama-rede-simplificado.png)
-
-O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utilizada para controlar e gerenciar o cronograma de atividades de um projeto. Com ele, é possível listar tudo que precisa ser feito para colocar o projeto em prática, dividir em atividades e estimar o tempo necessário para executá-las.
-
-![Gráfico de Gantt](img/02-grafico-gantt.png)
+![Gráfico de Gantt](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-infra-t1-todolist/blob/main/docs/img/Gerenciamento%20de%20tempo%20-%20Grafico%20Gantt.png)
 
 ## Gerenciamento de Equipe
 
-O gerenciamento adequado de tarefas contribuirá para que o projeto alcance altos níveis de produtividade. Por isso, é fundamental que ocorra a gestão de tarefas e de pessoas, de modo que os times envolvidos no projeto possam ser facilmente gerenciados. 
-
-![Simple Project Timeline](img/02-project-timeline.png)
+![Gerenciamento de Equipe](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-infra-t1-todolist/blob/main/docs/img/Gerenciamento%20de%20equipe.png)
 
 ## Gestão de Orçamento
 

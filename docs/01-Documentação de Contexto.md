@@ -1,6 +1,6 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Com o aumento da demanda por produtividade e organização na rotina diária das pessoas, o gerenciamento de tarefas se tornou uma necessidade cada vez mais presente na vida das pessoas. Através do uso de tecnologias, é possível criar soluções eficientes para auxiliar no gerenciamento dessas tarefas, tanto em ambiente web quanto mobile.
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.

@@ -25,9 +25,8 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Planejar é crucial para o melhor desempenho na vida do ser humano, seja no ambiente profissional ou pessoal. De acordo com a BBC News, listar tarefas cotidianas ajuda a liberar espaço mental e a eliminar aquela sensação incômoda da possibilidade de estar esquecendo algo. Portanto, em busca de facilitar o dia a dia, fez-se necessário a criação do projeto ToDoList.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)

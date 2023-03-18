@@ -4,7 +4,8 @@
 
 <p align="justify">A definição precisa do problema e dos pontos mais relevantes deste
 projeto foi feita a partir de entrevistas realizadas pelos membros da
-equipe com pessoas de sexos distintos, englobando jovens universitários, profissionais e pais que precisam listar tarefas do dia a dia.</p>
+equipe com pessoas de sexos distintos, englobando universitários, profissionais na área autônoma e formal e também pais que precisam listar tarefas do dia a dia.
+Os principais pontos levantados durante o processo foram consolidados na forma de personas e histórias de usuário.</p>
 
 ## Personas
 

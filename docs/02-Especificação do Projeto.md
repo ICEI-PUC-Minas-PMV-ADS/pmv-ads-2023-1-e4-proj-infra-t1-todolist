@@ -18,7 +18,7 @@ equipe com pessoas de sexos distintos, englobando jovens universitários, profis
 | Sebastião Silva                                                                                                                                      | Informações:                                                                                                      |                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | ![SS](https://user-images.githubusercontent.com/74699119/157877912-ab54615f-ec08-4ea7-ad39-353bc9e81a72.png)                                         | **Idade:** 40 <br> **Ocupação:** Empresário                                                                       | **Aplicativos:**<br><ul>● Whatsapp<br>● E-mail</ul>                           |
-| **Motivações:**<br><ul>● Facilitar o processo de atendimento no seu bar <br>● Aumentar as vendas<br>● Melhorar experiência do seus consumidores</ul> | **Frustrações:**<br><ul>● Pedidos errados ou incompletos <br>● Atendimento ruim <br>● Clientes insatisfeitos</ul> | **Hobbies:**<br><ul>● Assistir futebol<br>● Assistir filmes <br>● Pescar</ul> |
+| **Motivações para listar as tarefas:**<br><ul>● Facilitar a dinâmica de trabalho. <br>● Melhorar a produtividade.</ul> | **Frustrações:**<br><ul>● Não manter o foco em uma única tarefa. <br>● Deixar de tarefas incompletas<br>● Metas não cumpridas</ul> | **Hobbies:**<br><ul>● Assistir futebol<br>● Assistir filmes <br>● Pescar</ul> |
 
 | Flávia de Souza                                                                                                                   | Informações:                                                                    |                                                                  |
 | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
@@ -170,9 +170,13 @@ De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar 
 
 ## Gerenciamento de Tempo
 
-![Gerenciamento de tempo excel](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-infra-t1-todolist/blob/main/docs/img/Gerenciamento%20de%20tempo%20-%20Planilha%20Excel.png)
+Com diagramas bem organizados que permitem gerenciar o tempo nos projetos, o gerente de projetos agenda e coordena tarefas dentro de um projeto para estimar o tempo necessário de conclusão.
 
-![Gráfico de Gantt](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-infra-t1-todolist/blob/main/docs/img/Gerenciamento%20de%20tempo%20-%20Grafico%20Gantt.png)
+![Diagrama de rede simplificado notação francesa (método francês)](img/02-diagrama-rede-simplificado.png)
+
+O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utilizada para controlar e gerenciar o cronograma de atividades de um projeto. Com ele, é possível listar tudo que precisa ser feito para colocar o projeto em prática, dividir em atividades e estimar o tempo necessário para executá-las.
+
+![Gráfico de Gantt](img/02-grafico-gantt.png)
 
 ## Gerenciamento de Equipe
 

@@ -47,6 +47,7 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 |Sebastião Silva     | Controlar as metas de cada tarefa                        | Manter o controle das datas de inicio e finalização da atividade | 
 |Renato Moreira      | Definir minha rotina semanal                             | Eu consiga otimizar o meu tempo |
 |Flávia de Souza     | Listar os meus afazeres e compromissos do dia a dia      | Que eu consiga diferenciar as tarefas que já foram feitas das que ainda preciso fazer e, assim, me organizar melhor. 
+|Mariana Rezende     | Anotar as minhas tarefas e trabalhos                     | Lembrar do que preciso fazer no meu dia  |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
@@ -98,6 +99,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
 |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-003| Permitir que o usuário remova as tarefas que o mesmo precisar selecionar   | ALTA |
+|RF-004| Permitir que o usuário insira a data na tarefa que precisa realizar   | ALTA |
 
 ### Requisitos não Funcionais
 

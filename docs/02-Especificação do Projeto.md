@@ -8,19 +8,37 @@ equipe com pessoas de sexos distintos, englobando jovens universitários, profis
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+<p align="justify">As personas elaboradas durante o processo de definição do problema são apresentadas nas figuras a seguir:</p>
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+| Rafaela Miranda                                                                                                                                                                                  | Informações:                                                                                                                                |                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| ![RM](https://user-images.githubusercontent.com/74699119/157868822-a1647845-d66c-4cfc-8007-2a560dddf4de.png)                                                                                     | **Idade:** 35 <br> **Ocupação:** Gerente de RH,                                                                                             | **Aplicativos:**<br><ul>● Facebook<br>● Netflix<br>● Twitter<br>● Instagram</ul>                 |
+| **Motivações para frequentar algum estabelecimento:**<br><ul>● Encontrar com amigos, conversar e se divertir. <br>● Conhecer novos bares da sua cidade <br>● Ter boas experiências ao sair.</ul> | **Frustrações:**<br><ul>● Morosidade no atendimento. <br>● Falta de praticidade ao fazer um pedido. <br>● Contas com erros de pedido. </ul> | **Hobbies:**<br><ul>● Ler livros<br>● Viajar com a família <br>● Sair com amigos e família.</ul> |
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+| Sebastião Silva                                                                                                                                      | Informações:                                                                                                      |                                                                               |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| ![SS](https://user-images.githubusercontent.com/74699119/157877912-ab54615f-ec08-4ea7-ad39-353bc9e81a72.png)                                         | **Idade:** 40 <br> **Ocupação:** Empresário                                                                       | **Aplicativos:**<br><ul>● Whatsapp<br>● E-mail</ul>                           |
+| **Motivações:**<br><ul>● Facilitar o processo de atendimento no seu bar <br>● Aumentar as vendas<br>● Melhorar experiência do seus consumidores</ul> | **Frustrações:**<br><ul>● Pedidos errados ou incompletos <br>● Atendimento ruim <br>● Clientes insatisfeitos</ul> | **Hobbies:**<br><ul>● Assistir futebol<br>● Assistir filmes <br>● Pescar</ul> |
+
+| Flávia de Souza                                                                                                                   | Informações:                                                                    |                                                                  |
+| --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| ![FS](https://user-images.githubusercontent.com/74699119/157870593-47e85e52-7a86-4f5f-9795-62976f2056ae.png)                      | **Idade:** 50 <br> **Ocupação:** Diretora de escola                             | **Aplicativos:**<br><ul>● Facebook<br>● Whatsapp<br>● Gmail</ul> |
+| **Motivações para frequentar algum estabelecimento:**<br><ul>● Comidas gostosas<br>● Boa localização<br>● Local ser estiloso</ul> | **Frustrações:**<br><ul>● Demora na entrega do pedido<br>● Filas de espera</ul> | **Hobbies:**<br><ul>● Viajar<br>● Jardinagem <br>● Yoga</ul>     |
+
+| Renato Moreira                                                                                                                                               | Informações:                                                      |                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| ![RMo](https://user-images.githubusercontent.com/74699119/157868671-7e07ce9b-638b-47b9-8118-ba1a6359eb90.png)                                                | **Idade:** 25 <br> **Ocupação:** Desenvolvedor de Sistemas        | **Aplicativos:**<br><ul>● Facebook<br>● Twitter<br>● Instagram <br>● Zé Delivery</ul> |
+| **Motivações para frequentar algum estabelecimento:**<br><ul>● Ver jogos de futebol <br>● Sair com a namorada<br>● Sair com amigos aos finais de semana</ul> | **Frustrações:**<br><ul>● Divisões de conta<br>● Bares caros</ul> | **Hobbies:**<br><ul>● Ler livros<br>● Jogar futebol <br>● Ver séries</ul>             |
+
+| Mariana Rezende                                                                                                                      | Informações:                                                                                |                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| ![MR](https://user-images.githubusercontent.com/74699119/157870547-f569bef9-c35f-4894-a846-0c8a56ffdb01.png)                         | **Idade:** 25 <br> **Ocupação:** Professora de educação infantil                            | **Aplicativos:**<br><ul>● Youtube<br>● Gmail<br>● Instagram</ul>    |
+| **Motivações para frequentar algum estabelecimento:**<br><ul>● Entretenimento<br>● Sair com amigos<br>● Ver pessoas <br>● Comer</ul> | **Frustrações:**<br><ul>● Locais muito barulhentos<br>● Dificuldade em fazer um pedido</ul> | **Hobbies:**<br><ul>● Assistir séries<br>● Passeios com amigos</ul> |
+
+| Fernanda Teixeira                                                                                                      | Informações:                                                                     |                                                                                                     |
+| ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| ![FT](https://user-images.githubusercontent.com/74699119/157868769-c4830081-16db-45c5-8e95-a8f8805fce56.png)           | **Idade:** 19 <br> **Ocupação:** Garçonete                                       | **Aplicativos:**<br><ul>● Youtube<br>● Whatsapp<br>● Kindle</ul>                                    |
+| **Motivações:**<br><ul>● Facilitar o antendimento<br>● Contas estarem certas <br>● Pedidos feitos de forma rápida</ul> | **Frustrações:**<br><ul>● Reclamações de clientes<br>● Erros de atendimento</ul> | **Hobbies:**<br><ul>● Leitura <br>● Sair com o namorado <br>● Filmes <br>● Cuidar de seus cães</ul> |
 
 ## Histórias de Usuários
 

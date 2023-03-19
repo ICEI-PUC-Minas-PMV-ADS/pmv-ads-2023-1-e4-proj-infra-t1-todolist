@@ -90,10 +90,15 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
+|RF-001| Permitir que o usuário cadastre novas tarefas | ALTA | 
 |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
 |RF-003| Permitir que o usuário remova as tarefas que o mesmo precisar selecionar   | ALTA |
 |RF-004| Permitir que o usuário insira a data na tarefa que precisa realizar   | ALTA |
+|RF-005| Permitir que o usuário crie uma conta e faça login | ALTA | 
+|RF-006| Permitir que o usuário categorize as tarefas   | MÉDIA |
+|RF-007| Permitir que o usuário marque as tarefas como concluídas   | ALTA |
+|RF-008| Permitir que o usuário salve e restaure suas listas   | ALTA |
+|RF-009| Permitir que o usuário edite as tarefas criadas  | ALTA |
 
 ### Requisitos não Funcionais
 

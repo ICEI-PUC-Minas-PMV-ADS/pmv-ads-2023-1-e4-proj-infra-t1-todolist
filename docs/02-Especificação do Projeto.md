@@ -90,11 +90,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre novas tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-|RF-003| Permitir que o usuário remova as tarefas que o mesmo precisar selecionar   | ALTA |
-|RF-004| Permitir que o usuário insira a data na tarefa que precisa realizar   | ALTA |
-|RF-005| Permitir que o usuário crie uma conta e faça login | ALTA | 
+|RF-001| Permitir que o usuário crie uma conta e faça login | ALTA | 
+|RF-002| Permitir que o usuário cadastre novas tarefas | ALTA | 
+|RF-003| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-004| Permitir que o usuário remova as tarefas que o mesmo precisar selecionar   | ALTA |
+|RF-005| Permitir que o usuário insira a data na tarefa que precisa realizar   | ALTA |
 |RF-006| Permitir que o usuário categorize as tarefas   | MÉDIA |
 |RF-007| Permitir que o usuário marque as tarefas como concluídas   | ALTA |
 |RF-008| Permitir que o usuário salve e restaure suas listas   | ALTA |
@@ -121,18 +121,37 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |02| O projeto deve ser compatível com várias plataformas, como iOS, Android, Google Chrome, Microsoft Edge, entre outros |
 |03| A equipe não pode subcontratar o desenvolvimento do trabalho|
 
+
 ## Diagrama de Casos de Uso
 
-O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
+|ATOR|	Descrição|
+|----|-----------|
+|Usuário| Ator que faz o cadastro e alteração de suas tarefas, marca suas tarefas como concluídas e restaura suas listas, além de emitir o relatório mensal. |
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
 
-> **Links Úteis**:
-> - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)
-> - [Como Criar Diagrama de Caso de Uso: Tutorial Passo a Passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
-> - [Lucidchart](https://www.lucidchart.com/)
-> - [Astah](https://astah.net/)
-> - [Diagrams](https://app.diagrams.net/)
+|CASO DE USO|	DESCRIÇÃO|	RF|
+|-|-|-|
+|Realizar login no sistema|	O funcionário deve conseguir realizar login com suas credenciais no sistema.| RF01 / RF02|
+|Gerenciar Perfil|	O funcionário deve conseguir gerenciar perfil: (atualizar dados do pessoas e alterar senha) no seu perfil.|	RF03 |
+|Consultar Objetivos Pessoais| O funcionário deve consultar seus objetivos pessoais| RF07|
+|Consultar Metas Pessoais| O funcionário deve consultar suas metas pessoais| RF06 |
+|Consultar Dashboard | O sistema dever permitir ao funcionários consultar dos dados do dashboard| RF14, RF15, RF16, RF17 | 
+|Alocar Funcionário ao departamento | O sistema deve permitir ao funcionário o gerenciamento de departamentos | RF05 / RF11 | 
+|Associar Funcionário a Cargos e Salários| O sistema deve permitir ao funcionário o gerenciamento de cargos e salários. | RF08 / RF13| 
+|Gerenciar Funcionários|O sistema deve permitir ao funcionário o gerenciamento de funcionários  | RF04|
+|Gerenciar Objetivos de Equipe|O sistema deve permitir ao funcionário o gerenciamento dos objetivos de equipe  | RF07|
+|Gerenciar Metas de Equipe|O sistema deve permitir ao funcionário o gerenciamento das metas de equipe | RF06|
+|Validar Ojetivos Pessoais|O sistema deve permitir ao funcionário a validação dos objetivos pessoais  | RF07|
+|Validar Metas Pessoais|O sistema deve permitir ao funcionário a validação das metas pessoais  | RF06|
+|Gerenciar Departamentos|O sistema deve permitir ao funcionário o gerenciamento dos departamentos da empresa  | RF05 / RF11|
+|Gerenciar Cargos e Salários|O sistema deve permitir ao funcionário o gerenciamento de cargos e salários da empresa | RF08 / RF13|
+|Gerenciar Objetivos globais|O sistema deve permitir ao funcionário o gerenciamento dos objetivos globais  | RF07/ RF08 / RF15|
+|Gerenciar Metas globais|O sistema deve permitir ao funcionário o gerenciamento das metas de equipe | RF06 / RF09 / RF14 / RF16 / RF17|
+|Gerenciar Acessos|O sistema deve permitir ao funcionário o gerenciamento dos acesso conforme Golden, Silver e Bronze | RF04|
+
+
+ ## Representação Visual
+ Diagrama de Caso de Uso
 
 # Matriz de Rastreabilidade
 

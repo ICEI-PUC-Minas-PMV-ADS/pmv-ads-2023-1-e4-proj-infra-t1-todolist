@@ -129,25 +129,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |Usuário| Ator que faz o cadastro e alteração de suas tarefas, marca suas tarefas como concluídas e restaura suas listas, além de emitir o relatório mensal. |
 
 
-|CASO DE USO|	DESCRIÇÃO|	RF|
-|-|-|-|
-|Realizar login no sistema|	O funcionário deve conseguir realizar login com suas credenciais no sistema.| RF01 / RF02|
-|Gerenciar Perfil|	O funcionário deve conseguir gerenciar perfil: (atualizar dados do pessoas e alterar senha) no seu perfil.|	RF03 |
-|Consultar Objetivos Pessoais| O funcionário deve consultar seus objetivos pessoais| RF07|
-|Consultar Metas Pessoais| O funcionário deve consultar suas metas pessoais| RF06 |
-|Consultar Dashboard | O sistema dever permitir ao funcionários consultar dos dados do dashboard| RF14, RF15, RF16, RF17 | 
-|Alocar Funcionário ao departamento | O sistema deve permitir ao funcionário o gerenciamento de departamentos | RF05 / RF11 | 
-|Associar Funcionário a Cargos e Salários| O sistema deve permitir ao funcionário o gerenciamento de cargos e salários. | RF08 / RF13| 
-|Gerenciar Funcionários|O sistema deve permitir ao funcionário o gerenciamento de funcionários  | RF04|
-|Gerenciar Objetivos de Equipe|O sistema deve permitir ao funcionário o gerenciamento dos objetivos de equipe  | RF07|
-|Gerenciar Metas de Equipe|O sistema deve permitir ao funcionário o gerenciamento das metas de equipe | RF06|
-|Validar Ojetivos Pessoais|O sistema deve permitir ao funcionário a validação dos objetivos pessoais  | RF07|
-|Validar Metas Pessoais|O sistema deve permitir ao funcionário a validação das metas pessoais  | RF06|
-|Gerenciar Departamentos|O sistema deve permitir ao funcionário o gerenciamento dos departamentos da empresa  | RF05 / RF11|
-|Gerenciar Cargos e Salários|O sistema deve permitir ao funcionário o gerenciamento de cargos e salários da empresa | RF08 / RF13|
-|Gerenciar Objetivos globais|O sistema deve permitir ao funcionário o gerenciamento dos objetivos globais  | RF07/ RF08 / RF15|
-|Gerenciar Metas globais|O sistema deve permitir ao funcionário o gerenciamento das metas de equipe | RF06 / RF09 / RF14 / RF16 / RF17|
-|Gerenciar Acessos|O sistema deve permitir ao funcionário o gerenciamento dos acesso conforme Golden, Silver e Bronze | RF04|
 
 
  ## Representação Visual

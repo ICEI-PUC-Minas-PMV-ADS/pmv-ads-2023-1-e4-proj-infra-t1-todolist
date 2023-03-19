@@ -190,6 +190,13 @@ De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar 
 | Hardware             | R$ 7.000,00   |
 | Rede                 | R$ 2.800,00   |
 | Software             | R$ 560,00     |
-| Serviços             | R$ 14.000,00   |
+| Serviços             | R$ 14.000,00  |
 | Total                | R$ 293.160,00 |
 
+<p align="justify">Cálculo:
+
+Recursos Humanos = 7 Profissionais x R$ 60,00/hora x 640 horas (4 meses) = R$ 268.800,00
+Hardware = 7 locações Notebooks x R$ 250,00/Mês x 4 Meses = R$ 7.000,00
+Rede = 7 internet banda larga x R$ 100,00/Mês x 4 Meses = R$ 2.800,00
+Softwares = 7 locações (windows, office) x R$ 20,00/Mês x 4 Meses = R$ 560,00
+Serviços = 7 despesas (energia, hospedagem) x R$ 500,00/Mês x 4 Meses = R$ 14.000,00.

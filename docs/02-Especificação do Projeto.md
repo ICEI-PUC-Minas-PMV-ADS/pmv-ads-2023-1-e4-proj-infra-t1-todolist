@@ -129,6 +129,18 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |Usuário| Ator que faz o cadastro e alteração de suas tarefas, marca suas tarefas como concluídas e restaura suas listas, além de emitir o relatório mensal. |
 
 
+|CASO DE USO|	DESCRIÇÃO|	RF|
+|-|-|-|
+|Realizar login no sistema|	O usuário deve conseguir realizar o cadastro e login no sistema.| RF-001 |
+|Criar Tarefas|	O usuário deve conseguir criar suas tarefas.| RF-002 |
+|Emitir Relatório Mensal| O usuário deve emitir o relatório mensal de suas tarefas| RF-003|
+|Remover Tarefas| O sistema deve permitir que o usuário remova suas tarefas| RF-004 |
+|Adicionar Data | O sistema dever permitir ao usuário a inserção da data em determinada tarefa que precisa ser realizada| RF-005 | 
+|Categorizar Tarefas| O sistema deve permitir que o usuário categorize suas tarefas | RF-006 | 
+|Marcar como Pronta| O sistema deve permitir ao usuário marcar suas tarefas como concluídas. | RF-007| 
+|Salvar e Restaurar| O sistema deve permitir que o usuário salve e restaure suas listas. | RF-008| 
+|Editar Tarefas| O sistema deve permitir que o usuário edite suas listas. | RF-009| 
+
 
 
  ## Representação Visual

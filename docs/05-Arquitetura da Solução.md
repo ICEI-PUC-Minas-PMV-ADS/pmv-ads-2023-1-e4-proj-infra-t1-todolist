@@ -14,28 +14,28 @@ A aplicação é disponibilizada para o usuário final através de duas platafor
 -HTML5, CSS3, Javascript / Web.
 
 A persistência dos dados é feita de forma relacional utilizando o banco de dados SQL Server. A imagem abaixo mostra um resumo da arquitetura da aplicação e a integração entre seus módulos:
-![Arquitetura da aplicação](https://static.imasters.com.br/wp-content/uploads/2016/05/Figura7-620x332.png)
+![Arquitetura da aplicação](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-infra-t1-todolist/blob/main/docs/img/Frame%201.png?raw=true)
 
 
 ## Diagrama de Classes
 
 O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
 
-![Diagrama de classes](https://static.imasters.com.br/wp-content/uploads/2016/05/Figura7-620x332.png)
+![Diagrama de classes](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-infra-t1-todolist/blob/main/docs/img/Classe%20UML.png?raw=true)
 
 
 ## Modelo ER
 
 O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.
 
-![Diagrama ER](https://static.imasters.com.br/wp-content/uploads/2016/05/Figura7-620x332.png)
+![Diagrama ER](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-infra-t1-todolist/blob/main/docs/img/Diagrama%20ER%20de%20banco%20de%20dados%20(p%C3%A9%20de%20galinha)%20(1).png?raw=true)
 
 
 ## Esquema Relacional
 
 O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
  
-![Esquema Relacional](https://static.imasters.com.br/wp-content/uploads/2016/05/Figura7-620x332.png)
+![Esquema Relacional](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-infra-t1-todolist/blob/main/docs/img/ER.png?raw=true)
 
 
 ## Tecnologias Utilizadas

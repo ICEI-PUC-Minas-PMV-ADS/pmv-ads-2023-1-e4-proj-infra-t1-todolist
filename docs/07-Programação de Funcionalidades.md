@@ -22,26 +22,26 @@ Desenvolvimento da API Rest que irá servir a aplicação com os dados a serem c
 
 2. Abrir com o Visual Studio o projeto contido no diretório API, através do arquivo Todo.sln.
 
-![Abrir projeto](sad)
+![Abrir projeto](https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-infra-t1-todolist/906dd2ec459e28b96db2d8f18ea56fada97abed9/docs/img/1%20passo.png)
 
 3. Definir o projeto de inicialização como Todo.Domain.Api.
 
-![Definir arquivo de inicialização](sad)
+![Definir arquivo de inicialização](https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-infra-t1-todolist/906dd2ec459e28b96db2d8f18ea56fada97abed9/docs/img/2%20passo.png)
 
 4. Definir a string de conexão com o banco de dados, a mesma foi disponibilizada através do Canvas, juntamente com o carregamento do arquivo.
 
 - String de conexão no arquivo `appsettings.json`
-![Definir string no appsettings.json](sad)
+![Definir string no appsettings.json](https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-infra-t1-todolist/906dd2ec459e28b96db2d8f18ea56fada97abed9/docs/img/3%20passo%201.png)
 
 - String de conexão no arquivo `appsettings.Development.json`
 
-![Definir string no appsettings.Development.json](sad)
+![Definir string no appsettings.Development.json](https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-infra-t1-todolist/906dd2ec459e28b96db2d8f18ea56fada97abed9/docs/img/3%20passo%202.png)
 
 5. Executar o projeto apertando `ctrl + F5`.
 
 6. Abrir o Insomnia, clicar em New Collection e defina um nome para a coleção de requisições.
 
-![Criando um novo projeto Insomnia](sad)
+![Criando um novo projeto Insomnia](https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-infra-t1-todolist/a2b351b2a500925145da5ca2ffa6acafe4fa353a/docs/img/4%20passo.png)
 
 7. Aperte `ctrl + N` para criar uma nova requisição, selecione o tipo de requisição e passe o link da requisição e clique no botão Send.
 

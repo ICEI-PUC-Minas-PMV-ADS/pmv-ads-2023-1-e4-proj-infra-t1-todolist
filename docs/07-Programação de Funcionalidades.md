@@ -50,3 +50,7 @@ Exemplo:
 
 8. O resultado da requisição é exibido na tela.
 
+### Lista de end-points
+
+![endpoints](https://user-images.githubusercontent.com/69054000/235229588-e22e601e-01e0-41ec-9473-2f1eb94062c7.png)
+

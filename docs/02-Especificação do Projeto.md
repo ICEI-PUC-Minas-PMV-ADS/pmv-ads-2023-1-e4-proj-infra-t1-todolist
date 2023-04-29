@@ -68,8 +68,7 @@ Nossa aplicação vai atuar onde as presentes no mercado atual tem pouco alcance
 
 Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
 
-(![Processo 1]![Diagrama - Lista de tarefas - PUC (1)](https://user-images.githubusercontent.com/89323922/235320702-ff2c6b2b-ee2a-42e4-b57d-5f9a7f113c59.png)
-)
+([Diagrama - Lista de tarefas - PUC (1)](https://user-images.githubusercontent.com/89323922/235320702-ff2c6b2b-ee2a-42e4-b57d-5f9a7f113c59.png))
 
 ## Indicadores de Desempenho
 

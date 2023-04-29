@@ -55,7 +55,10 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 
 ### Análise da Situação Atual
 
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+Atualmente embora exista diversos sistemas especializados para a organização de tarefas, as opções de aplicações são mais voltadas para área corporativa.
+Com isso, muitas dessas plataformas têm funções mais robustas e, assim, podendo não trazer uma praticidade para o dia a dia de quem deseja organizar tarefas pessoais.
+
+Observado esses nichos que são pouco explorados pelas plataformas existentes, decidimos criar uma aplicação que se encaixa na realidade dessas pessoas. 
 
 ### Descrição Geral da Proposta
 

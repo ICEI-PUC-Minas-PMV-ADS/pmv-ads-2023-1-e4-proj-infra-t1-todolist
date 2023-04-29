@@ -62,7 +62,7 @@ Observado esses nichos que são pouco explorados pelas plataformas existentes, d
 
 ### Descrição Geral da Proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+Nossa aplicação vai atuar onde as presentes no mercado atual tem pouco alcance, colocando o foco principal no desenvolvimento de algo que atenda a necessidade descrita acima, porém procurando também manter a plataforma aberta para as pessoas que desejam utilizar no âmbito profissional.
 
 ### Processo 1 – NOME DO PROCESSO
 

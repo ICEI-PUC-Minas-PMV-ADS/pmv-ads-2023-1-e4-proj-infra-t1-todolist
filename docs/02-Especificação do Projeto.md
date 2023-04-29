@@ -64,9 +64,17 @@ Observado esses nichos que são pouco explorados pelas plataformas existentes, d
 
 Nossa aplicação vai atuar onde as presentes no mercado atual tem pouco alcance, colocando o foco principal no desenvolvimento de algo que atenda a necessidade descrita acima, porém procurando também manter a plataforma aberta para as pessoas que desejam utilizar no âmbito profissional.
 
-### Processo 1 – NOME DO PROCESSO
+### Processo 1 – USUÁRIO ACESSA A APLICAÇÃO E EFETUA O CADASTRO
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
+Nesse processo a pessoa irá acessar a plataforma e criar seu usuário, inserindo seus dados de login e senha.
+
+### Processo 2 – USUÁRIO ACESSA A TELA INICIAL
+
+Nessa tela, o usuário já poderá visualizar suas listagens criadas com suas devidas tarefas e ter o controle de status da atividade, edição de datas e categorias, exclusão, o usuário poderá restaurar uma listagem e entre outras funções.
+
+### Processo 3 – USUÁRIO ACESSA A TELA DE CRIAÇÃO DE LISTAGEM E TAREFAS
+
+Nessa tela, o usuário poderá criar uma nova listagem com tarefas de categoria principal e subcategorias, datando cada atividade, justamente para ter o controle de prazos.
 
 ![Diagrama - Lista de tarefas - PUC (2)](https://user-images.githubusercontent.com/89323922/235320948-d64eeca5-320d-4ff9-8b6c-7b59c57043e4.png)
 

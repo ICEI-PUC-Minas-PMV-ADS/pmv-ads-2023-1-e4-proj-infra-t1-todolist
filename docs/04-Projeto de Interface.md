@@ -22,7 +22,38 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+### TELA - HOMEPAGE
+
+![Tela - Homepage](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-infra-t1-todolist/assets/89323922/030dacc1-9751-4f74-b4b9-fbfb11432bbf)
+
+### TELA - LOGIN
+
+![Tela - Login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-infra-t1-todolist/assets/89323922/e6741ae3-d5a5-450e-b179-0704f06fb1bc)
+
+### TELA - CADASTRO DE USUÁRIO
+
+![Tela - Cadastro de usuário](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-infra-t1-todolist/assets/89323922/203371a7-b657-4641-a166-49fa8d4d248f)
+
+
+### TELA - PÁGINA INICIAL
+
+![Tela - Página inicial](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-infra-t1-todolist/assets/89323922/f39fd4bc-a81d-49ef-af17-5c8c3d3de8ab)
+
+### TELA - CRIAÇÃO DE LISTA E TAREFAS
+
+![Tela - Criar Lista e tarefas](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-infra-t1-todolist/assets/89323922/0772ac8c-0ee5-4714-a85e-b4ada7c194d7)
+
+### TELA - CONTROLE DE TAREFAS
+
+![Tela - Controle de tarefas](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-infra-t1-todolist/assets/89323922/bc061af3-e380-4737-9cd5-1df6cace2526)
+
+### TELA - EDIÇÃO DE TAREFAS
+
+![Tela - Editar tarefas](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-infra-t1-todolist/assets/89323922/4f823182-014c-4393-884a-e80ace48c211)
+
+### TELA - RELATÓRIOS
+
+![Tela - Relatório](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-infra-t1-todolist/assets/89323922/39f23ca0-4cb4-4ad5-b5ac-44371c0e5f62)
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
  

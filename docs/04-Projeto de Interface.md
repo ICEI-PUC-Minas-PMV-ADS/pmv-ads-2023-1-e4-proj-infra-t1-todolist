@@ -24,6 +24,8 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 ### TELA - HOMEPAGE
 
+<p align="justify">A tela de homepage apresenta uma breve explicação sobre a plataforma, com as informações básicas do que o sistema tem a oferecer. Através dessa página, é possível que o usuário acesse a tela de Login.</p>
+
 ![Tela - Homepage](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-infra-t1-todolist/assets/89323922/030dacc1-9751-4f74-b4b9-fbfb11432bbf)
 
 ### TELA - LOGIN

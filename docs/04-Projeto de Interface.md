@@ -49,6 +49,8 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 ### TELA - CRIAÇÃO DE LISTA E TAREFAS
 
+<p align="justify">Nessa tela, o usuário poderá criar uma nova lista incluindo novas tarefas com categorias principais ou subcategorias. Cada tarefa terá uma data de incio previsto e prazo da atividade, como também já poderá ser criado uma tarefa adicionando o seu status.</p>
+
 ![Tela - Criar Lista e tarefas](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-infra-t1-todolist/assets/89323922/0772ac8c-0ee5-4714-a85e-b4ada7c194d7)
 
 ### TELA - CONTROLE DE TAREFAS

@@ -61,7 +61,7 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 ### TELA - EDIÇÃO DE TAREFAS
 
-<p align="justify">Na página inicial, o usuário tem a opção clicar em um botão para editar uma lista existente. Justamente nessa tela é onde o usuário poderá editar uma lista, onde poderá ser alterado o nome da tarefa e da lista, as datas das tarefas, categorias e excluir ou adcionar tarefas</p>
+<p align="justify">Na página inicial, o usuário tem a opção clicar em um botão para editar uma lista existente. Justamente nessa tela é onde o usuário poderá editar uma lista, podendo alterar o nome da tarefa e da lista, as datas das tarefas, categorias e excluir ou adcionar tarefas</p>
 
 ![Tela - Editar tarefas](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-infra-t1-todolist/assets/89323922/4f823182-014c-4393-884a-e80ace48c211)
 

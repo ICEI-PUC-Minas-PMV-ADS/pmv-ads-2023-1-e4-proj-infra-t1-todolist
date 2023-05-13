@@ -36,6 +36,8 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 ### TELA - CADASTRO DE USUÁRIO
 
+<p align="justify">Nessa tela é o onde o usuário infomará os dados necessários para a criação de um login de acesso ao sistema.</p>
+
 ![Tela - Cadastro de usuário](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-infra-t1-todolist/assets/89323922/203371a7-b657-4641-a166-49fa8d4d248f)
 
 

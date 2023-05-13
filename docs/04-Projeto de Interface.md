@@ -30,6 +30,8 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 ### TELA - LOGIN
 
+<p align="justify">É solicitado ao usuário as informações de e-mail e senha para que o login seja efetuado. O usuário possui disponível também a opção de se cadastrar no sistema, caso não tenha ainda um login de acesso.</p>
+
 ![Tela - Login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-infra-t1-todolist/assets/89323922/e6741ae3-d5a5-450e-b179-0704f06fb1bc)
 
 ### TELA - CADASTRO DE USUÁRIO

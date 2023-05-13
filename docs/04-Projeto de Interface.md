@@ -55,6 +55,8 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 ### TELA - CONTROLE DE TAREFAS
 
+<p align="justify">Nessa tela, o usuário terá o controle de uma lista com suas devidas tarefas. O usuário tem um filtro de busca onde aparecerá as listas já cadastradas no sistema para o mesmo poder estar selecionando e, assim, ter seu controle.</p> 
+
 ![Tela - Controle de tarefas](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-infra-t1-todolist/assets/89323922/bc061af3-e380-4737-9cd5-1df6cace2526)
 
 ### TELA - EDIÇÃO DE TAREFAS

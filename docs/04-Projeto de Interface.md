@@ -43,6 +43,8 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 ### TELA - PÁGINA INICIAL
 
+<p align="justify"> Após ser efetuado o login no sistema, o usuário irá entrar nessa tela onde poderá visualizar de início as suas listas de tarefas. Nessa tela também haverá o cabeçalho, onde consta os menus de acesso as outras página no sistema.</p>
+
 ![Tela - Página inicial](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-infra-t1-todolist/assets/89323922/f39fd4bc-a81d-49ef-af17-5c8c3d3de8ab)
 
 ### TELA - CRIAÇÃO DE LISTA E TAREFAS

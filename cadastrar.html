@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-Br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ToDoList - Entre na sua conta</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+        integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+</head>
+
+<body>
+    <div class="container">
+        <div class="content">
+
+            <div class="header-login">
+                <a id="btn-voltar" href="index.html"><i class="fas fa-arrow-left"></i></a>
+                <div class="wrp-img">
+                    <img src="Logotipo.svg" alt="logotipo" />
+                </div>
+            </div>
+            <div class="formulario-login">
+                <div class="form-content">
+                    <input class="field-text" type="text" placeholder="Nome"  id="nome-cadastro">
+                    <input class="field-text" type="email" placeholder="E-mail"  id="email-cadastro">
+                    <input class="field-text" type="date" placeholder="Nascimento"  id="nascimento-cadastro">
+                    <input class="field-text" type="password" placeholder="Senha"  id="senha-cadastro">
+                    <input class="field-text" type="password" placeholder="Confirmar Senha"  id="confirmaSenha_cadastro">
+
+                    <button class="btn-primario" style="width: 90%;" type="submit" onclick="cadastrarUsuario()">Criar conta</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+
+<script type="text/javascript" src="script.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.6.7/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.6.7/firebase-auth-compat.js"></script>
+<script>
+    const firebaseConfig = {
+
+        apiKey: "AIzaSyBVx6mWF_offxNWrD6W8A9cHC6LJnyl5gg",
+        authDomain: "todolist-8e65d.firebaseapp.com",
+        projectId: "todolist-8e65d",
+        storageBucket: "todolist-8e65d.appspot.com",
+        messagingSenderId: "126200699545",
+        appId: "1:126200699545:web:42fa6209b5307240373608"
+    };
+
+    firebase.initializeApp(firebaseConfig);
+</script>
+
+</html>

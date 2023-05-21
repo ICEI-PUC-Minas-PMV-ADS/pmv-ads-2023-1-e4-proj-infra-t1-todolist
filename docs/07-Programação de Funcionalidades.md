@@ -1,6 +1,7 @@
 # Status Kanban Atualizado
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-infra-t1-todolist/assets/69054000/c2d95de1-32c4-47da-b744-c2cf0bacb962)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-infra-t1-todolist/assets/69054000/fb6623e1-8195-48de-8d79-4c2c2d4c8618)
 
 
 # Programação de Funcionalidades

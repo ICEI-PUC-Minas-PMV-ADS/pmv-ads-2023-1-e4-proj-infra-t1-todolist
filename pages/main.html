@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-Br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ToDoList - Entre na sua conta</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+        integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rock+Salt">
+</head>
+
+<body>
+    <div class="container">
+        <div class="navBar">
+            <div class="wrp-img" id="logotipo">
+                <img src="Logotipo.svg" alt="logotipo" />
+            </div>
+            <div id="btn-sair">
+                <button class="btn-primario" type="submit" onclick="deslogarSistema()"><i
+                        class="fas fa-sign-out"></i></button>
+            </div>
+        </div>
+        <div class="content-main">
+            <div class="filtros-head">
+                <button class="btn-secundario" type="submit" onclick="">Tarefas realizadas</button>
+                <button class="btn-secundario close" type="submit" onclick="">Tarefas à fazer</button>
+                <button class="btn-secundario close" type="submit" onclick="">Todas as tarefas</button>
+            </div>
+            <div id="btn-novaTarefa">
+                <button class="btn-secundario" type="submit" onclick="showModalAdd()"><i
+                        class="far fa-plus"></i></button>
+            </div>
+            <div id="modalEdit" class="modal">
+                <div class="modal-content">
+                    <div class="modal-form">
+                        <h3>Editar tarefa</h3>
+                        <input type="text" id="myInput" name="myInput" placeholder="Descrição">
+                        <input type="date" id="myDateInput" name="myDateInput" placeholder="Data">
+                        <input type="time" id="myTimeInput" name="myTimeInput">
+                        <div class="modal-buttons">
+                            <button class="btn-secundario" type="submit" onclick="showModal()">Salvar</button>
+                            <button class="btn-secundario close" type="submit"
+                                onclick="showModal()">Cancelar</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="modalAdd" class="modal">
+                <div class="modal-content">
+                    <div class="modal-form">
+                        <h3>Adicionar tarefa</h3>
+                        <input type="text" id="title-add" name="myInput" placeholder="Descrição">
+                        <input type="date" id="date-add" name="myDateInput" placeholder="Data">
+                        <input type="time" id="hour-add" name="myTimeInput">
+                        <div class="modal-buttons">
+                            <button class="btn-secundario" type="submit" onclick="criarTarefa()">Salvar</button>
+                            <button class="btn-secundario close" type="submit"
+                                onclick="showModalAdd()">Cancelar</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="tarefas-column" id="tarefas-column">
+                
+
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+</body>
+<script type="text/javascript" src="script.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.6.7/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.6.7/firebase-auth-compat.js"></script>
+<script>
+    const firebaseConfig = {
+
+        apiKey: "AIzaSyBVx6mWF_offxNWrD6W8A9cHC6LJnyl5gg",
+        authDomain: "todolist-8e65d.firebaseapp.com",
+        projectId: "todolist-8e65d",
+        storageBucket: "todolist-8e65d.appspot.com",
+        messagingSenderId: "126200699545",
+        appId: "1:126200699545:web:42fa6209b5307240373608"
+    };
+
+    firebase.initializeApp(firebaseConfig);
+</script>
+
+</html>

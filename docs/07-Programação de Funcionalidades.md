@@ -54,3 +54,18 @@ Exemplo:
 
 ![endpoints](https://user-images.githubusercontent.com/69054000/235229588-e22e601e-01e0-41ec-9473-2f1eb94062c7.png)
 
+## Front End Mobile
+
+Desenvolvido com HTML5, CSS3 e Javascript, não foi utilizado nenhum framework na aplicação.
+
+### Funcionalidades
+
+- Login: Desenvolvido utilizando a plataforma Firebase da Google para autenticação de usuário.
+- Cadastro de usuário: Desenvolvido utilizando a plataforma Firebase da Google.
+- Validações inputs: realizado via Regex, por exemplo, a senha de conter 1 letra maiuscula, 1 minuscula, 8 ou mais caracteres e 1 caracter especial.
+- Inclusão de tarefas: Realizado o consumo da Api Back end, utilizando métodos fetch, onde é feita a validação de cada requisição através do JWT gerado pelo Firebase, esse JWT é armazenado como cookie no navegador e tem validade de 1 hora, após isso é nescessário um novo login.
+- Listagem de tarefas: realiza a listagem geral de todas as tarefas que o usuário logado possui.
+
+### Desenvolvimento
+
+O desenvolvimento do layout é feito seguindo a metodologia mobile first, ou seja, é pensado primeiramente em um layout para dispositivos com tela pequena e em seguida é adaptado a responsividade da aplicação para telas grandes.

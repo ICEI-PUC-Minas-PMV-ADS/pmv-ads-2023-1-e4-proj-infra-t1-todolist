@@ -56,9 +56,3 @@ O diagrama abaixo apresenta o estudo do fluxo de interação do usuário com o s
 
 ![Tela - Editar tarefas](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-infra-t1-todolist/assets/89323922/4f823182-014c-4393-884a-e80ace48c211)
 
-### TELA - RELATÓRIOS
-
-<p align="justify">Nessa tela o usuário terá como puxar um relatório de tarefas, de acordo com o mês de referência em que a tarefa foi criada. O usuário também poderá puxar as taferas por meio de seu status: pendente, concluído e cancelado.</p> 
-
-![Tela - Relatório](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e4-proj-infra-t1-todolist/assets/89323922/39f23ca0-4cb4-4ad5-b5ac-44371c0e5f62)
-

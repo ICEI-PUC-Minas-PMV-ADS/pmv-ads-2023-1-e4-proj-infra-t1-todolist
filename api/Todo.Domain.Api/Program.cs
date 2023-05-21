@@ -52,13 +52,13 @@ builder.Services
     .AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>
     {
-        options.Authority = "https://securetoken.google.com/project-3436164519520809919";
+        options.Authority = "https://securetoken.google.com/todolist-8e65d";
         options.TokenValidationParameters = new TokenValidationParameters
         {
             ValidateIssuer = true,
-            ValidIssuer = "https://securetoken.google.com/project-3436164519520809919",
+            ValidIssuer = "https://securetoken.google.com/todolist-8e65d",
             ValidateAudience = true,
-            ValidAudience = "project-3436164519520809919",
+            ValidAudience = "todolist-8e65d",
             ValidateLifetime = true
         };
     });

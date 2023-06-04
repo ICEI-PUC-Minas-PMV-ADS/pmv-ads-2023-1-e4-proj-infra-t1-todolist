@@ -130,5 +130,16 @@ namespace Todo.Domain.Api.Controllers
             command.User = user;
             return (GenericCommandResult)handler.Handle(command);
         }
+
+        [Route("Delete")]
+        [HttpDelete]
+        public GenericCommandResult Delete(
+            [FromBody] DeleteCommand command,
+            [FromServices] TodoHandler handler)
+        {
+            var user = User.Claims.FirstOrDefault(x => x.Type == "user_id")?.Value;
+            command.User = user;
+            return (GenericCommandResult)handler.Handle(command);
+        }
     }
 }

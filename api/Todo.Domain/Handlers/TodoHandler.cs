@@ -104,5 +104,22 @@ namespace Todo.Domain.Handlers
             //Retorna o resultado
             return new GenericCommandResult(true, "Tarefa salva", command.Notifications);
         }
+
+        public ICommandResult Handle(DeleteCommand command)
+        {
+            //Fail Fast Validation
+            command.Validate();
+            if (command.Invalid)
+                return new GenericCommandResult(false, "Ops, parece que sua tarefa está errada!", command.Notifications);
+
+            //Recupera o TodoItem
+            var todo = _repository.GetById(command.Id, command.User);
+
+            //Salva no banco
+            _repository.Delete(todo);
+
+            //Retorna o resultado
+            return new GenericCommandResult(true, "Tarefa deletada", command.Notifications);
+        }
     }
 }

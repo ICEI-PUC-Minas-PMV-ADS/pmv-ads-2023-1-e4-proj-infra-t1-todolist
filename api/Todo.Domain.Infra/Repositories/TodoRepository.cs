@@ -69,5 +69,11 @@ namespace Todo.Domain.Infra.Repositories
             _context.Entry(todo).State = EntityState.Modified;
             _context.SaveChanges();
         }
+
+        public void Delete(TodoItem todo)
+        {
+            _context.Todos.Remove(todo);
+            _context.SaveChanges();
+        }
     }
 }

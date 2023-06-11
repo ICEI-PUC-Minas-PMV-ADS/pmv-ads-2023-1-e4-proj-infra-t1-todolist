@@ -60,7 +60,7 @@ Exemplo:
 
 ![endpoints](https://user-images.githubusercontent.com/69054000/235229588-e22e601e-01e0-41ec-9473-2f1eb94062c7.png)
 
-## Front End Mobile
+## Front End WEB
 
 Desenvolvido com HTML5, CSS3 e Javascript, não foi utilizado nenhum framework na aplicação.
 
@@ -75,3 +75,30 @@ Desenvolvido com HTML5, CSS3 e Javascript, não foi utilizado nenhum framework n
 ### Desenvolvimento
 
 O desenvolvimento do layout é feito seguindo a metodologia mobile first, ou seja, é pensado primeiramente em um layout para dispositivos com tela pequena e em seguida é adaptado a responsividade da aplicação para telas grandes.
+
+## Front End WEB
+
+Desenvolvimento realizado atráves da ferramenta Expo, baseada na linguagem de programação React Native. A aplicação faz o uso de algumas bibliotecas e componentes externos, listados abaixo:
+
+### Bibliotecas e componenete
+
+- Axios: usada na execução das requisições HTTP.
+- DateTimePicker: utilizada para lidar com a captura de data e hora.
+- Expo vecto-icons: biblioteca de icones.
+- React Navigation: solução para navegação entre telas.
+- Async Storage: usado para armazenamento local dos tokens de autenticação, simulando o funcionamento de cookies.
+
+### Funcionalidades
+
+- Login: Desenvolvido utilizando a plataforma Firebase da Google para autenticação de usuário.
+- Cadastro de usuário: Desenvolvido utilizando a plataforma Firebase da Google.
+- Validações inputs: realizado via Regex, por exemplo, a senha de conter 1 letra maiuscula, 1 minuscula, 8 ou mais caracteres e 1 caracter especial.
+- Inclusão de tarefas: Realizado o consumo da Api Back end, utilizando métodos fetch, onde é feita a validação de cada requisição através do JWT gerado pelo Firebase, esse JWT é armazenado como cookie no navegador e tem validade de 1 hora, após isso é nescessário um novo login.
+- Edição de tarefa: permite o usuário editar os dados de uma tarefa.
+- Exclusão de tarefa: realiza a exclusão da tarefa selecionada.
+- Listagem de tarefas: realiza a listagem geral de todas as tarefas que o usuário logado possui.
+- Filtros: realizada a listagem de tarefas feitas, não feitas e todas as tarefas.
+
+### Desenvolvimento
+
+Desenvolvimento realizado seguindo os padrões de projeto e as convenções de código da atualizadade, com foco no sistema operacional Android.

@@ -54,7 +54,8 @@ namespace Todo.Domain.Handlers
             var todo = _repository.GetById(command.Id, command.User);
 
             //Altera o título
-            todo.UpdateTitle(command.Title);  
+            todo.UpdateTitle(command.Title);
+            todo.UpdateDate(command.Date);
             
             // Salva no banco
             _repository.Update(todo);

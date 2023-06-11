@@ -9,16 +9,18 @@ namespace Todo.Domain.Commands
         public Guid Id { get; set; }
         public string Title { get; set; }
         public string User { get; set; }
+        public DateTime Date { get; set; }
 
         public UpdateTodoCommand()
         {
         }
 
-        public UpdateTodoCommand(Guid id, string title, string user)
+        public UpdateTodoCommand(Guid id, string title, string user, DateTime date)
         {
             Id = id;
             Title = title;
             User = user;
+            Date = date; 
         }
 
         public void Validate()

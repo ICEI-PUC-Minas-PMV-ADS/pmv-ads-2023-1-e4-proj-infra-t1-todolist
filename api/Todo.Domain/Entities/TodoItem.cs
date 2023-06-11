@@ -35,5 +35,10 @@ namespace Todo.Domain.Entities
         {
             Title = title;
         }
+
+        public void UpdateDate(DateTime date)
+        {
+            Date = date;
+        }
     }
 }

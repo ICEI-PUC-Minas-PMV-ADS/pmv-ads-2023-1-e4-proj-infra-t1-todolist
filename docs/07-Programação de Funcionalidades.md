@@ -76,7 +76,7 @@ Desenvolvido com HTML5, CSS3 e Javascript, não foi utilizado nenhum framework n
 
 O desenvolvimento do layout é feito seguindo a metodologia mobile first, ou seja, é pensado primeiramente em um layout para dispositivos com tela pequena e em seguida é adaptado a responsividade da aplicação para telas grandes.
 
-## Front End WEB
+## Front End Mobile
 
 Desenvolvimento realizado atráves da ferramenta Expo, baseada na linguagem de programação React Native. A aplicação faz o uso de algumas bibliotecas e componentes externos, listados abaixo:
 
@@ -102,3 +102,4 @@ Desenvolvimento realizado atráves da ferramenta Expo, baseada na linguagem de p
 ### Desenvolvimento
 
 Desenvolvimento realizado seguindo os padrões de projeto e as convenções de código da atualizadade, com foco no sistema operacional Android.
+

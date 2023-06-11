@@ -1,32 +1,43 @@
 import { useNavigation } from "@react-navigation/native";
-import { SafeAreaView, StyleSheet, TouchableOpacity, Text, View, Image, TextInput, Alert } from "react-native";
+import { SafeAreaView, StyleSheet, TouchableOpacity, Text, View, Image, TextInput, Alert, KeyboardAvoidingView } from "react-native";
 import { useState } from "react";
+import { logarSistema } from '../../services/authentication'
 
 export function Login() {
     const navigation = useNavigation();
     const [email, setEmail] = useState('');
     const [senha, setSenha] = useState('');
-    
-     function efetuarLogin(email, senha) {
-     
+
+    async function efetuarLogin() {
+        await logarSistema(email, senha)
+            .then((response) => {
+                navigation.navigate('Principal')
+            }).catch((erro) => {
+                Alert.alert('Erro interno do sistema!')
+                console.log(erro)
+            })
     }
 
     return (
-        <SafeAreaView style={styles.container}>
-            <View style={styles.logo}>
-                <Image source={require("../../../assets/Logotipo.png")} />
-            </View>
-            <View style={styles.form}>
-                <TextInput keyboardType="default" placeholder="E-mail" style={styles.input} value={email} onChangeText={(text)=>{setEmail(text)}} />
-                <TextInput keyboardType="default" secureTextEntry={true} placeholder="Senha" style={styles.input } value={senha} onChangeText={(text)=>{setSenha(text)}} />
-                <TouchableOpacity style={styles.button} onPress={efetuarLogin(email,senha)}><Text style={styles.buttonText}>Login</Text></TouchableOpacity>
-                <Text style={styles.textCadastro}>Ainda não sou cadastrado!  <Text onPress={() => navigation.navigate("Cadastro")} style={styles.textBtCadastrar}>Criar conta.</Text></Text>
-            </View>
-            
-            <View style={styles.logo}>
-                <Image style={{ width: 250, height: 250, resizeMode: "contain" }} source={require("../../../assets/calendar.png")} />
-            </View>
-        </SafeAreaView>
+        
+            <SafeAreaView style={styles.container}>
+
+                <View style={styles.logo}>
+                    <Image style={{width: 250, height: 250, resizeMode: "contain" }} source={require("../../../assets/Logotipo.png")} />
+                </View>
+
+                <View style={styles.form}>
+                    <TextInput keyboardType="default" placeholder="E-mail" style={styles.input} value={email} onChangeText={(text) => { setEmail(text) }} />
+                    <TextInput keyboardType="default" secureTextEntry={true} placeholder="Senha" style={styles.input} value={senha} onChangeText={(text) => { setSenha(text) }} />
+                    <TouchableOpacity style={styles.button} onPress={efetuarLogin}><Text style={styles.buttonText}>Login</Text></TouchableOpacity>
+                    <Text style={styles.textCadastro}>Ainda não sou cadastrado!  <Text onPress={() => navigation.navigate("Cadastro")} style={styles.textBtCadastrar}>Criar conta.</Text></Text>
+                </View>
+
+                <View style={styles.logo}>
+                    <Image style={{ width: 150, height: 150, resizeMode: "contain" }} source={require("../../../assets/calendar.png")} />
+                </View>
+            </SafeAreaView>
+        
     );
 }
 const styles = StyleSheet.create({

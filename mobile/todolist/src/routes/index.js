@@ -1,35 +1,33 @@
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import { Login } from "../pages/login";
-import {Principal} from "../pages/principal"
-import {Cadastro} from "../pages/cadastro"
+import { Principal } from "../pages/principal"
+import { Cadastro } from "../pages/cadastro"
 
 
 const Stack = createNativeStackNavigator();
 
-export function Routes(){
-    return(
+export function Routes() {
+    return (
         <Stack.Navigator
             screenOptions={{
-                headerShown:false,
-
-
+                headerShown: false,
             }}
         >
-            <Stack.Screen 
+            <Stack.Screen
                 name="Login"
                 component={Login}
                 options={{
 
                 }}
             />
-            <Stack.Screen 
+            <Stack.Screen
                 name="Cadastro"
                 component={Cadastro}
                 options={{
 
                 }}
             />
-            <Stack.Screen 
+            <Stack.Screen
                 name="Principal"
                 component={Principal}
                 options={{

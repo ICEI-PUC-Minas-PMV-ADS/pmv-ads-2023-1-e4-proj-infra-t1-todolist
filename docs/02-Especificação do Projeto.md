@@ -97,13 +97,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o usuário crie uma conta e faça login | ALTA | 
 |RF-002| Permitir que o usuário cadastre novas tarefas | ALTA | 
-|RF-003| Emitir um relatório de tarefas no mês   | MÉDIA |
-|RF-004| Permitir que o usuário remova as tarefas que o mesmo precisar selecionar   | ALTA |
-|RF-005| Permitir que o usuário insira a data na tarefa que precisa realizar   | ALTA |
-|RF-006| Permitir que o usuário categorize as tarefas   | MÉDIA |
-|RF-007| Permitir que o usuário marque as tarefas como concluídas   | ALTA |
-|RF-008| Permitir que o usuário salve e restaure suas listas   | ALTA |
-|RF-009| Permitir que o usuário edite as tarefas criadas  | ALTA |
+|RF-003| Permitir que o usuário remova as tarefas que o mesmo precisar selecionar   | ALTA |
+|RF-004| Permitir que o usuário insira a data na tarefa que precisa realizar   | ALTA |
+|RF-005| Permitir que o usuário categorize(realizada/não realizadas) as tarefas   | MÉDIA |
+|RF-006| Permitir que o usuário marque as tarefas como concluídas   | ALTA |
+|RF-007| Permitir que o usuário salve e restaure suas listas   | ALTA |
+|RF-008| Permitir que o usuário edite as tarefas criadas  | ALTA |
 
 ### Requisitos não Funcionais
 
@@ -138,13 +137,12 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |-|-|-|
 |Realizar login no sistema|	O usuário deve conseguir realizar o cadastro e login no sistema.| RF-001 |
 |Criar Tarefas|	O usuário deve conseguir criar suas tarefas.| RF-002 |
-|Emitir Relatório Mensal| O usuário deve emitir o relatório mensal de suas tarefas| RF-003|
-|Remover Tarefas| O sistema deve permitir que o usuário remova suas tarefas| RF-004 |
-|Adicionar Data | O sistema dever permitir ao usuário a inserção da data em determinada tarefa que precisa ser realizada| RF-005 | 
-|Categorizar Tarefas| O sistema deve permitir que o usuário categorize suas tarefas | RF-006 | 
-|Marcar como Pronta| O sistema deve permitir ao usuário marcar suas tarefas como concluídas. | RF-007| 
-|Salvar e Restaurar| O sistema deve permitir que o usuário salve e restaure suas listas. | RF-008| 
-|Editar Tarefas| O sistema deve permitir que o usuário edite suas listas. | RF-009| 
+|Remover Tarefas| O sistema deve permitir que o usuário remova suas tarefas| RF-003 |
+|Adicionar Data | O sistema dever permitir ao usuário a inserção da data em determinada tarefa que precisa ser realizada| RF-004 | 
+|Categorizar Tarefas| O sistema deve permitir que o usuário categorize suas tarefas | RF-005 | 
+|Marcar como Pronta| O sistema deve permitir ao usuário marcar suas tarefas como concluídas. | RF-006| 
+|Salvar e Restaurar| O sistema deve permitir que o usuário salve e restaure suas listas. | RF-007| 
+|Editar Tarefas| O sistema deve permitir que o usuário edite suas listas. | RF-008| 
 
 
 

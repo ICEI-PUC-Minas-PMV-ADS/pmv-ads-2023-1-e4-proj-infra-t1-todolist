@@ -259,7 +259,7 @@ table {
 }
 
 .field-cadastrar {
-    height: 30px;
+    min-height: 60px;
     width: 90%;
     flex-direction: row;
     display: flex;
@@ -353,15 +353,21 @@ table {
     align-items: flex-end;
     justify-content: space-between;
     width: 90%;
-    height: 70px;
+    height: 80px;
     margin-top: 20px;
 }
 
 .filtros-head button{
+    font-weight: bold;
     font-size: 16px;
-    width: 90px;
+    width: 30%;
+    max-width: 84px;
+    min-width: 80px;
 }
-
+.calendar-image{
+    width: 80%;
+    height: auto;
+}
 #btn-novaTarefa{
     display: flex;
     flex-direction: row;
@@ -399,6 +405,18 @@ table {
     flex-direction: row;
     align-items: center;
     justify-content: center;
+    border-width: 3;
+    border-color: green;
+}
+.card-tarefa.done{
+    border-style: solid;
+    border-width: 3px;
+    border-color: green;
+}
+.card-tarefa.undone{
+    border-style: solid;
+    border-width: 3px;
+    border-color: red;
 }
 .card-tarefa .descricao{
     width: 60%;
@@ -485,3 +503,115 @@ table {
     width: 45%;
   }
   
+  @media only screen and (max-width: 767px) {
+    /* Insira aqui os estilos específicos para dispositivos móveis */
+    .card-tarefa{
+        margin-bottom: 20px;
+        background-color: #fff;
+        width: 100%;
+        height: 120px;
+        border-radius: 10px;
+        box-shadow: #616161 2px 2px 15px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        border-width: 3;
+        border-color: green;
+    }
+    .card-tarefa .descricao{
+        width: 100%;
+        height: 60%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding-left: 10px;
+    }
+    .card-tarefa .controles{
+        height: 40%;
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+}
+  
+  /* Estilos para dispositivos de tela média (como tablets) */
+  @media only screen and (min-width: 768px) and (max-width: 1023px) {
+    /* Insira aqui os estilos específicos para tablets */
+    
+    .card-tarefa{
+        margin-bottom: 20px;
+        background-color: #fff;
+        width: 100%;
+        height: 200px;
+        border-radius: 10px;
+        box-shadow: #616161 2px 2px 15px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        border-width: 3;
+        border-color: green;
+    }
+    .card-tarefa .descricao{
+        width: 60%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding-left: 10px;
+    }
+    .card-tarefa .controles{
+        height: 100%;
+        width: 40%;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .card-tarefa .descricao h3{
+        font-size: 28px;
+        font-family: monospace;
+        font-weight: 600;
+        margin-bottom: 7px;
+    }
+    .card-tarefa .descricao h4{
+        font-size: 24px;
+        font-family: monospace;
+        
+
+    }
+    .card-tarefa .controles button{
+        font-size: 16px;
+        width: 80px;
+        height: 80px;
+        font-size: 28px;
+    }
+    .filtros-head{
+        display: flex;
+        flex-direction: row;
+        align-items: flex-end;
+        justify-content: space-between;
+        width: 90%;
+        height: 70px;
+        margin-top: 20px;
+    }
+    
+    .filtros-head button{
+        font-size: 20px;
+        font-weight: bold;
+        width: 30%;
+        height: 80px;
+        max-width: 250px;
+        min-width: 58px;
+    }
+}
+  
+  /* Estilos para dispositivos de tela grande (como desktops) */
+  @media only screen and (min-width: 1024px) {
+    /* Insira aqui os estilos específicos para desktops */
+  }

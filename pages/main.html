@@ -26,9 +26,9 @@
         </div>
         <div class="content-main">
             <div class="filtros-head">
-                <button class="btn-secundario" type="submit" onclick="">Tarefas realizadas</button>
-                <button class="btn-secundario close" type="submit" onclick="">Tarefas à fazer</button>
-                <button class="btn-secundario close" type="submit" onclick="">Todas as tarefas</button>
+                <button class="btn-secundario" type="submit" onclick="getTasksDone()">Tarefas realizadas</button>
+                <button class="btn-secundario" type="submit" onclick="getTasksUndone()">Tarefas à fazer</button>
+                <button class="btn-secundario" type="submit" onclick="getAll()">Todas as tarefas</button>
             </div>
             <div id="btn-novaTarefa">
                 <button class="btn-secundario" type="submit" onclick="showModalAdd()"><i
@@ -38,17 +38,19 @@
                 <div class="modal-content">
                     <div class="modal-form">
                         <h3>Editar tarefa</h3>
-                        <input type="text" id="myInput" name="myInput" placeholder="Descrição">
-                        <input type="date" id="myDateInput" name="myDateInput" placeholder="Data">
-                        <input type="time" id="myTimeInput" name="myTimeInput">
+                        <input type="hidden" id="id-edit"/>
+                        <input type="text" id="title-edit" name="myInput" placeholder="Descrição">
+                        <input type="date" id="date-edit" name="myDateInput" placeholder="Data">
+                        <input type="time" id="hour-edit" name="myTimeInput">
                         <div class="modal-buttons">
-                            <button class="btn-secundario" type="submit" onclick="showModal()">Salvar</button>
+                            <button class="btn-secundario" type="submit" onclick="editTask()">Salvar</button>
                             <button class="btn-secundario close" type="submit"
                                 onclick="showModal()">Cancelar</button>
                         </div>
                     </div>
                 </div>
             </div>
+
             <div id="modalAdd" class="modal">
                 <div class="modal-content">
                     <div class="modal-form">
@@ -57,7 +59,7 @@
                         <input type="date" id="date-add" name="myDateInput" placeholder="Data">
                         <input type="time" id="hour-add" name="myTimeInput">
                         <div class="modal-buttons">
-                            <button class="btn-secundario" type="submit" onclick="criarTarefa()">Salvar</button>
+                            <button class="btn-secundario" type="submit" onclick="addTask()">Salvar</button>
                             <button class="btn-secundario close" type="submit"
                                 onclick="showModalAdd()">Cancelar</button>
                         </div>
